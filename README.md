@@ -1,1 +1,1 @@
-# Cpp-Guide
+# Cpp-Guide - Просто учим с++.
